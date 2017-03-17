@@ -37,7 +37,7 @@ return [
     ...
     'components' => [
         'mobiledetect' => [
-            'class' => 'dkeeper\mobiledetect\Detect',
+            'class' => 'gulltour\mobiledetect\MobileDetect',
         ],
     ],
     ...

@@ -1,4 +1,4 @@
-# mobiledetector
+# MobileDetector
 Yii2 extension for Mobile-Detect library
 Mobile detector
 ===============
@@ -7,7 +7,7 @@ Detect type of device by information from request.
 
 This extension based on mobiledetect project http://mobiledetect.net/.
 
-See [here] (https://github.com/serbanghita/Mobile-Detect/) and [here] (http://demo.mobiledetect.net/) for more documentation and examples.
+See [here] (http://demo.mobiledetect.net/) for more documentation and examples.
 
 ## Installation
 
